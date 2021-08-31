@@ -103,4 +103,7 @@
   .card.middle {
     flex-grow: 1.5;
   }
-  
+
+  #nextchapter {
+    color: limegreen
+  }
